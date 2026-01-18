@@ -1,6 +1,6 @@
-# COVID-19-analysis
+# COVID-19-Analysis
 
-# First Semester Python Project – Problem-Based Analysis
+## Table of Contents
 
 ## Project Overview
 This repository contains Python-based solutions to a set of academic problem
@@ -32,6 +32,6 @@ and solved using Python.
 - `data/`: Dataset used for the analysis
 - `original_questions.pdf`: Original project questions
 
-## Author
+## Contact Information
 **Esther Aladeloye O.**  
 Entry-Level Data Analyst | Healthcare & Business Data
