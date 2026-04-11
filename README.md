@@ -27,24 +27,22 @@ Source: The dataset was sourced from the COVID-19 Data Repository by the Center 
 2. Latest number of confirmed, deaths, recovered, and active cases of novel coronavirus (COVID-19) country-wise
 3. Latest number of confirmed, deaths, and recovered people of novel coronavirus (COVID-19) country/region - province/state-wise
 4. Chinese province-wise cases of confirmed, deaths, and recovered cases of Novel Coronavirus(COVID-19)
-5. latest country-wise deaths cases of Novel Coronavirus(COVID-19)
+5. Latest country-wise deaths cases of Novel Coronavirus(COVID-19)
 6. List of countries with no cases of Novel Coronavirus (COVID-19)
 7. List of countries with all cases of Novel Coronavirus (COVID-19) deaths
 8. List of countries with all cases of Novel Coronavirus (COVID-19) recovered
 9. Top 10 countries data (last update, country/region, confirmed, deaths, recovered) of novel coronavirus(COVID-19)
-10. Plot(lines) of total deaths, confirmed, recovered, and active cases, country-wise, where deaths are greater than 150
+10. Line plot of total deaths, confirmed, recovered, and active cases, country-wise, where deaths are greater than 150
 11. Visualize state/province-wise death cases of novel coronavirus (COVID-19) in the USA
 12. Visualize state/province-wise active cases of novel coronavirus (COVID-19) in the USA
 13. Visualize state/province-wise combined number of confirmed, death, recovered, and active novel coronavirus (COVID-19) cases in the USA
 14. Visualize worldwide confirmed novel coronavirus (COVID-19) cases over time
 
-
-
 ## Results/Insights
-
+* The dataset is largely clean, with no missing values in key variables like confirmed, deaths, and recovered cases, but there were missing values in variables like Province/State (158 missing values), Latitude, and Longitude (3 missing values each)
 
 ## Project Output
-
+"C:\Users\DELL\OneDrive\Documents\Alt_sch materials\Esther Aladeloye 1st semester project exam (1).html"
 
 ## Contact Information
 * LinkedIn: https://www.linkedin.com/in/estheraderonke
