@@ -20,7 +20,11 @@ The dataset used for this project is a COVID-19 dataset provided during the AltS
 Source: The dataset was sourced from the COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. https://github.com/CSSEGISandData/COVID-19.
 
 ## Methodology
-
+The project was carried out in the following steps:
+* Loaded the data by importing the dataset into Python
+* Wrote Python code to answer each of the provided questions
+* Extracted insights from outputs
+* Compiled the questions, code, and outputs into a report as a PDF file
 
 ## Key Questions Answered
 1. (a)Display first five rows (b)Dataset information (c)Check missing values
@@ -42,7 +46,12 @@ Source: The dataset was sourced from the COVID-19 Data Repository by the Center 
 * The dataset is largely clean, with no missing values in key variables like confirmed, deaths, and recovered cases, but there were missing values in variables like Province/State (158 missing values), Latitude, and Longitude (3 missing values each)
 
 ## Project Output
-"C:\Users\DELL\OneDrive\Documents\Alt_sch materials\Esther Aladeloye 1st semester project exam (1).html"
+The complete analysis is documented in the PDF report included in this repository:
+
+This report contains:
+* The qustions provided
+* The python code used for analysis
+* The outputs and results
 
 ## Contact Information
 * LinkedIn: https://www.linkedin.com/in/estheraderonke
