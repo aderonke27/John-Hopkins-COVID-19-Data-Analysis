@@ -15,28 +15,28 @@ The project consisted of multiple analytical questions. Each question has been t
 * Jupyter Notebook
 
 ## Dataset
-Name of dataset: 
+The dataset used for this project is a COVID-19 dataset provided during the AltSchool program.
 
-Source: The dataset used for this project was sourced from the Johns Hopkins COVID-19 repository.
+Source: The dataset was sourced from the COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. https://github.com/CSSEGISandData/COVID-19.
 
 ## Methodology
 
 
 ## Key Questions Answered
 1. (a)Display first five rows (b)Dataset information (c)Check missing values
-2. latest number of confirmed, deaths, recovered, and active cases of novel coronavirus (COVID-19) country-wise
-3. latest number of confirmed, deaths, and recovered people of novel coronavirus (COVID-19) country/region - province/state-wise
+2. Latest number of confirmed, deaths, recovered, and active cases of novel coronavirus (COVID-19) country-wise
+3. Latest number of confirmed, deaths, and recovered people of novel coronavirus (COVID-19) country/region - province/state-wise
 4. Chinese province-wise cases of confirmed, deaths, and recovered cases of Novel Coronavirus(COVID-19)
 5. latest country-wise deaths cases of Novel Coronavirus(COVID-19)
 6. List of countries with no cases of Novel Coronavirus (COVID-19)
 7. List of countries with all cases of Novel Coronavirus (COVID-19) deaths
 8. List of countries with all cases of Novel Coronavirus (COVID-19) recovered
 9. Top 10 countries data (last update, country/region, confirmed, deaths, recovered) of novel coronavirus(COVID-19)
-10. plot(lines) of total deaths, confirmed, recovered, and active cases, country-wise, where deaths are greater than 150
+10. Plot(lines) of total deaths, confirmed, recovered, and active cases, country-wise, where deaths are greater than 150
 11. Visualize state/province-wise death cases of novel coronavirus (COVID-19) in the USA
-12. visualize state/province-wise active cases of novel coronavirus (COVID-19) in the USA
-13. visualize state/province-wise combined number of confirmed, death, recovered, and active novel coronavirus (COVID-19) cases in the USA
-14. visualize worldwide confirmed novel coronavirus (COVID-19) cases over time
+12. Visualize state/province-wise active cases of novel coronavirus (COVID-19) in the USA
+13. Visualize state/province-wise combined number of confirmed, death, recovered, and active novel coronavirus (COVID-19) cases in the USA
+14. Visualize worldwide confirmed novel coronavirus (COVID-19) cases over time
 
 
 
