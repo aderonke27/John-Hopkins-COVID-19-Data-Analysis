@@ -24,8 +24,11 @@ Source: The dataset used for this project was sourced from the Johns Hopkins COV
 
 ## Key Questions Answered
 1a. Display first five rows
+
 1b. Dataset information
+
 1c. Check missing values
+
 2. latest number of confirmed, deaths, recovered, and active cases of novel coronavirus (COVID-19) country-wise
 3. latest number of confirmed, deaths, and recovered people of novel coronavirus (COVID-19) country/region - province/state-wise
 4. Chinese province-wise cases of confirmed, deaths, and recovered cases of Novel Coronavirus(COVID-19)
