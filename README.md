@@ -3,11 +3,11 @@
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Problem Statement](#problem-statement)
-3. [Tools & Libraries Used](#tools-&-libraries-used)
+3. [Tools and Libraries Used](#tools-and-libraries-used)
 4. [Dataset](#dataset)
 5. [Methodology](#methodology)
 6. [Key Questions Answered](#key-questions-answered)
-7. [Results/Insights](#result/insights)
+7. [Results and Insights](#result-and-insights)
 8. [Project Output](#project-output)
 9. [Contact Information](#contact-information)
 
@@ -17,7 +17,7 @@ This project focuses on analyzing COVID-19 dataset to extract meaningful insight
 ## Problem Statement
 The project consisted of multiple analytical questions. Each question has been treated as an individual problem statement and solved using Python.
 
-## Tools & Libraries Used
+## Tools and Libraries Used
 * Python
 * Pandas
 * Matplotlib
