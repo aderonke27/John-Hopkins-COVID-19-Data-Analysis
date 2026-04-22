@@ -51,7 +51,7 @@ The project was carried out in the following steps:
 13. Visualize state/province-wise combined number of confirmed, death, recovered, and active novel coronavirus (COVID-19) cases in the USA
 14. Visualize worldwide confirmed novel coronavirus (COVID-19) cases over time
 
-## Results/Insights
+## Results and Insights
 * The dataset is largely clean, with no missing values in key variables like confirmed, deaths, and recovered cases, but there were missing values in variables like Province/State (158 missing values), Latitude, and Longitude (3 missing values each)
 
 ## Project Output
