@@ -1,11 +1,20 @@
 # COVID-19 Data Analysis
 
 ## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Problem Statement](#problem-statement)
+3. [Tools & Libraries Used](#tools-&-libraries-used)
+4. [Dataset](#dataset)
+5. [Methodology](#methodology)
+6. [Key Questions Answered](#key-questions-answered)
+7. [Results/Insights](#result/insights)
+8. [Project Output](#project-output)
+9. [Contact Information](#contact-information)
 
 ## Project Overview
 This project focuses on analyzing COVID-19 dataset to extract meaningful insights using Python. The goal was to answer specific questions provided during my AltSchool Data Analysis program, using real-waorld health data  
 
-## Problem Statements
+## Problem Statement
 The project consisted of multiple analytical questions. Each question has been treated as an individual problem statement and solved using Python.
 
 ## Tools & Libraries Used
@@ -49,7 +58,7 @@ The project was carried out in the following steps:
 The complete analysis is documented in the PDF report included in this repository:
 
 This report contains:
-* The qustions provided
+* The questions provided
 * The python code used for analysis
 * The outputs and results
 
