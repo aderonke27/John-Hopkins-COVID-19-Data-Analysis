@@ -7,7 +7,7 @@
 4. [Dataset](#dataset)
 5. [Methodology](#methodology)
 6. [Key Questions Answered](#key-questions-answered)
-7. [Results and Insights](#result-and-insights)
+7. [Results and Insights](#results-and-insights)
 8. [Project Output](#project-output)
 9. [Contact Information](#contact-information)
 
