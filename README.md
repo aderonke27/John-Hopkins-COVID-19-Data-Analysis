@@ -68,7 +68,7 @@ The project was carried out in the following steps:
 
 ## Project Output
 The complete analysis is documented in the PDF report included in this repository:
-[Click to view the full report](./report/project_report.pdf)
+[Click to view the full report](./covid-19_data_analysis_project_output.pdf)
 
 This report contains:
 * The questions provided
