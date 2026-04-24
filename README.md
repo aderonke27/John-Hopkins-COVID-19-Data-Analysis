@@ -69,7 +69,7 @@ The project was carried out in the following steps:
 ## Project Output
 The complete analysis is documented in the PDF report included in this repository:
 
-[View the PDF report](./project_output.pdf)
+[View PDF report](./project_output.pdf)
 
 This report contains:
 * The questions provided
