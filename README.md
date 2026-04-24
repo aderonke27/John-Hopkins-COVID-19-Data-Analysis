@@ -53,6 +53,18 @@ The project was carried out in the following steps:
 
 ## Results and Insights
 * The dataset is largely clean, with no missing values in key variables like confirmed, deaths, and recovered cases, but there were missing values in variables like Province/State (158 missing values), Latitude, and Longitude (3 missing values each)
+* COVID-19 cases are unevenly distributed globally, with some countries significantly more affected than others
+* Active cases vary across countries, indicating different stages of outbreak control and spread
+* Deaths are concentrated in a few countries, reflecting disparities in healthcare systems and response strategies
+* Some countries show high confirmed cases but relatively low deaths, suggesting effective healthcare interventions
+* A small number of countries account for the majority of global COVID-19 cases due to population size and connectivity
+* In China, cases were highly concentrated in specific provinces, especially Hubei, the outbreak epicenter
+* The distribution of deaths across U.S. states shows that certain states experienced significantly higher mortality rates
+* Active cases across U.S. states reveal that some regions were still experiencing ongoing transmission waves
+* States with high confirmed cases in the U.S. also tend to have high deaths and active cases, indicating a heavier disease burden
+* Some countries recorded 100% mortality (no recoveries), likely due to small sample sizes or reporting anomalies
+* Several countries reported zero deaths despite confirmed cases, suggesting effective containment or low severity
+* Global case trends over time show a steady increase, highlighting the rapid spread and multiple waves of the pandemic
 
 ## Project Output
 The complete analysis is documented in the PDF report included in this repository:
